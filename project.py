@@ -45,6 +45,6 @@ while True:
 
     play_again = input("play again? (yes/no) :").lower()
 
-    if play_again !="yes":
+    if play_again != "yes":
         break
 print("BYEEEEEE")
